@@ -28,7 +28,7 @@
 # 📖 [About the Project] <a name="about-project"></a>
 
 
-**[todo List]** is a website built for a cake shop to display their confectionary and allow customers make orders
+**[cake-shop]** is a website built for a cake shop to display their confectionary and allow customers make orders
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,13 +40,13 @@
     <li><a href="https://www.w3schools.com/html/">HTML</a></li>
   </ul>
 </details>
-<!-- 
+
 <details>
   <summary>Styling</summary>
   <ul>
     <li><a href="https://www.w3schools.com/css/">CSS</a></a></li>
   </ul>
-</details> -->
+</details>
 
 <details>
   <summary>Interactivity</summary>
@@ -60,12 +60,6 @@
 - **[Landing_page]**
 - Landing page of the website
 
-- **[add task]**
-- allows user to enter a new task
-
-- **[delete task]**
-- allows user to delete a completed task
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,14 +67,6 @@
 
 - Click [here](https://leslieaine.github.io/cake-shop) to see the live demo of the project.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-Go to live page
-- enter a new task
-- Click add to add to your list
-- Click remove to remove task from your list
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -89,14 +75,7 @@ Go to live page
 - GitHub: [@LeslieAine](https://github.com/LeslieAine)
 - Twitter: [@LeslieAine](https://twitter.com/LeslieAine)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Add CRUD methods for functionality]**
-- [ ] **[Make list interactive]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,14 +85,6 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-we would like to thank microverse inc for the awesome challenge.
-- 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
